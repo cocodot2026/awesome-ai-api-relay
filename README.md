@@ -67,7 +67,7 @@ Services are listed **alphabetically**. Listing does not imply endorsement.
 | **Models** | Claude (Opus / Sonnet / Haiku), GPT series, Gemini, DeepSeek |
 | **Payment** | CNY (Alipay); pay-as-you-go, per-token billing |
 | **API Compatibility** | OpenAI-compatible (`/v1/chat/completions`) + Anthropic-compatible (works with Claude Code via `ANTHROPIC_BASE_URL`) |
-| **Notable Features** | One key for Claude / GPT / Gemini / DeepSeek; model integrity ("no silent downgrade") can be independently verified with the open-source [LLMprobe](https://github.com/oncesylvia/LLMprobe) tool; site and docs are Chinese-first |
+| **Notable Features** | One key for Claude / GPT / Gemini / DeepSeek; model integrity ("no silent downgrade") can be independently verified with the open-source [LLMprobe](https://github.com/cocodot2026/LLMprobe) tool; site and docs are Chinese-first |
 
 ---
 
