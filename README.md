@@ -59,6 +59,18 @@ Services are listed **alphabetically**. Listing does not imply endorsement.
 
 ---
 
+### cocodot
+
+| Field | Details |
+|-------|---------|
+| **Website** | [cocodot.co](https://cocodot.co) |
+| **Models** | Claude (Opus / Sonnet / Haiku), GPT series, Gemini, DeepSeek |
+| **Payment** | CNY (Alipay); pay-as-you-go, per-token billing |
+| **API Compatibility** | OpenAI-compatible (`/v1/chat/completions`) + Anthropic-compatible (works with Claude Code via `ANTHROPIC_BASE_URL`) |
+| **Notable Features** | One key for Claude / GPT / Gemini / DeepSeek; model integrity ("no silent downgrade") can be independently verified with the open-source [LLMprobe](https://github.com/oncesylvia/LLMprobe) tool; site and docs are Chinese-first |
+
+---
+
 ### Ofox.ai
 
 | Field | Details |
@@ -230,6 +242,7 @@ AI API 中转服务作为你的应用与上游 AI 提供商（OpenAI、Anthropic
 |------|------|---------|---------|-----------|------|
 | **API2D** | api2d.com | GPT 系列 | 人民币（支付宝/微信） | OpenAI 兼容 | 老牌中转，稳定可靠 |
 | **CloseAI** | closeai-asia.com | GPT 系列 | 人民币（支付宝/微信） | OpenAI 兼容 | 企业级，GPT 为主 |
+| **cocodot** | cocodot.co | Claude + GPT + Gemini + DeepSeek | 人民币（支付宝） | OpenAI + Anthropic 双兼容 | 支持 Claude Code 直连；不降智可用开源 LLMprobe 自测 |
 | **Ofox.ai** | ofox.ai | 多模型 | 见官网 | OpenAI 兼容 | 新兴平台，持续扩展 |
 | **YAPI** | yapi.uk | Claude + GPT + Gemini + DeepSeek | 人民币（支付宝/微信） | OpenAI + Anthropic 双兼容 | 多模型聚合，支持原生 Claude 格式 |
 
