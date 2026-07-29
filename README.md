@@ -90,6 +90,18 @@ Services are listed **alphabetically**. Listing does not imply endorsement.
 
 ---
 
+### YINGSUAN AI
+
+| Field | Details |
+|-------|---------|
+| **Website** | [yingsuan.top](https://yingsuan.top) |
+| **Models** | DeepSeek, Kimi K3 (2.8T), GLM-4, Qwen2.5, SiliconFlow + 3 free models |
+| **Payment** | Wise USD pay-as-you-go (no credit card); 100 free trial calls |
+| **API Compatibility** | OpenAI-compatible (`/v1/chat/completions`) |
+| **Notable Features** | LLM API gateway for Southeast Asian developers; one key for 10+ models; listed on Yunnan Data Circulation Trading Platform (government-backed data exchange) |
+
+---
+
 ## Code Examples
 
 These examples use placeholder values. Replace `YOUR_BASE_URL` and `YOUR_API_KEY` with your actual credentials.
