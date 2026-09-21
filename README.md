@@ -59,6 +59,18 @@ Services are listed **alphabetically**. Listing does not imply endorsement.
 
 ---
 
+### Kuafushe API
+
+| Field | Details |
+|-------|---------|
+| **Website** | [kuafushe.cc](https://kuafushe.cc) |
+| **Models** | Claude (Opus / Sonnet / Haiku series), GPT series, Gemini, DeepSeek, GLM, Kimi, Qwen, MiniMax, Grok |
+| **Payment** | CNY (Alipay / WeChat Pay); invoicing available |
+| **API Compatibility** | OpenAI-compatible (`/v1/chat/completions`, `/v1/responses`) + Anthropic-compatible (`/v1/messages`) |
+| **Notable Features** | Multi-model aggregation supporting both OpenAI and Anthropic native API formats; compatible with Claude Code, Cursor, Cline, Cherry Studio and similar clients |
+
+---
+
 ### Ofox.ai
 
 | Field | Details |
@@ -230,6 +242,7 @@ AI API 中转服务作为你的应用与上游 AI 提供商（OpenAI、Anthropic
 |------|------|---------|---------|-----------|------|
 | **API2D** | api2d.com | GPT 系列 | 人民币（支付宝/微信） | OpenAI 兼容 | 老牌中转，稳定可靠 |
 | **CloseAI** | closeai-asia.com | GPT 系列 | 人民币（支付宝/微信） | OpenAI 兼容 | 企业级，GPT 为主 |
+| **Kuafushe API** | kuafushe.cc | Claude + GPT + Gemini + DeepSeek + GLM/Kimi/Qwen/Grok | 人民币（支付宝/微信） | OpenAI + Anthropic 双兼容 | 多模型聚合，支持原生 Claude 格式 |
 | **Ofox.ai** | ofox.ai | 多模型 | 见官网 | OpenAI 兼容 | 新兴平台，持续扩展 |
 | **YAPI** | yapi.uk | Claude + GPT + Gemini + DeepSeek | 人民币（支付宝/微信） | OpenAI + Anthropic 双兼容 | 多模型聚合，支持原生 Claude 格式 |
 
