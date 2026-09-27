@@ -59,6 +59,17 @@ Services are listed **alphabetically**. Listing does not imply endorsement.
 
 ---
 
+### LanBuff
+
+| Field | Details |
+|-------|---------|
+| **Website** | [lanbuff.app](https://lanbuff.app) |
+| **Models** | Claude family (incl. dedicated Claude Code group), OpenAI family (incl. Codex group), Gemini, Vertex Claude / Azure Claude |
+| **Payment** | USD (bank card / Alipay / Touch 'n Go eWallet / NAVER Pay / AlipayHK) |
+| **API Compatibility** | OpenAI-compatible (`/v1/chat/completions`) + Anthropic-compatible (`/v1/messages`) |
+| **Notable Features** | Developer and AI-coding oriented; dedicated Claude Code and Codex groups; public status, pricing and model endpoints |
+
+
 ### Ofox.ai
 
 | Field | Details |
@@ -230,6 +241,7 @@ AI API 中转服务作为你的应用与上游 AI 提供商（OpenAI、Anthropic
 |------|------|---------|---------|-----------|------|
 | **API2D** | api2d.com | GPT 系列 | 人民币（支付宝/微信） | OpenAI 兼容 | 老牌中转，稳定可靠 |
 | **CloseAI** | closeai-asia.com | GPT 系列 | 人民币（支付宝/微信） | OpenAI 兼容 | 企业级，GPT 为主 |
+| **LanBuff** | lanbuff.app | Claude（含 Claude Code 分组）+ GPT/Codex + Gemini + Vertex/Azure Claude | 美元（银行卡 / 支付宝 / Touch 'n Go / NAVER Pay / AlipayHK） | OpenAI 兼容 + Anthropic 兼容 | 面向 AI 编程场景，提供 Claude Code / Codex 专属分组；公开状态页、价格页与模型列表接口 |
 | **Ofox.ai** | ofox.ai | 多模型 | 见官网 | OpenAI 兼容 | 新兴平台，持续扩展 |
 | **YAPI** | yapi.uk | Claude + GPT + Gemini + DeepSeek | 人民币（支付宝/微信） | OpenAI + Anthropic 双兼容 | 多模型聚合，支持原生 Claude 格式 |
 
